@@ -23,7 +23,7 @@ h1{
     padding: 15px;
 }
     .cover{
-width: 500px;
+width: 400px;
 display: block;
 margin-left: auto;
 margin-right: auto;
@@ -32,7 +32,7 @@ margin-bottom: 20px;
   .buttonOne{
    border: 3px solid #000000;
    border-radius: 10px;
-  font-size: 50px;
+  font-size: 40px;
     padding-left: 140px;
     padding-right: 140px;
     padding-top: 30px;
@@ -71,7 +71,7 @@ margin-bottom: 20px;
     .squidward,
     .spongebob,
     .mrkrabs {
-      width: 500px;
+      width: 400px;
       display: block;
       margin-left: auto;
       margin-right: auto;
